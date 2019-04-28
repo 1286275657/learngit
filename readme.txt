@@ -1,1 +1,2 @@
-git config --global user.email "1286275657@qq.com"
+git config --global user.email ""
+Creating a new branch is quick.
